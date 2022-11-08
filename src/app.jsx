@@ -66,9 +66,9 @@ function App(){
             <h1 class="hero-heading">What’s Trend in 2025 ?</h1>
             <p class="hero-description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor in- cididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut, join us by clicking Join now button.
+              eiusmod tempor in- cididunt<br /> ut labore et dolore magna aliqua. Ut
+              enim ad minim veniam, quis nostrud exercitation ullamco laboris<br />
+              nisi ut, join us by clicking Join now button. Lorem, ipsum dolor.
             </p>
 
             
